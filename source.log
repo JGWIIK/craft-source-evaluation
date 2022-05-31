@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.20)  31 MAY 2022 14:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.20)  31 MAY 2022 14:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -58,23 +58,28 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 15.
- (source.bbl) [2] (source.aux) ) 
+
+Overfull \hbox (32.19508pt too wide) in paragraph at lines 15--31
+ [] 
+ []
+
+(source.bbl) [2] (source.aux) ) 
 Here is how much of TeX's memory you used:
  437 strings out of 478659
  8293 string characters out of 2844972
- 305159 words of memory out of 3000000
+ 311159 words of memory out of 3000000
  18612 multiletter control sequences out of 15000+600000
  407416 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,6n,38p,141b,191s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Users/jamesgr/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jamesgr/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jamesgr/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jamesg
-r/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Us
-ers/jamesgr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10
-.pfb>
-Output written on source.pdf (2 pages, 73782 bytes).
+<C:/Users/jamesgr/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jamesgr/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jamesgr/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jamesgr
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Use
+rs/jamesgr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.
+pfb>
+Output written on source.pdf (2 pages, 78126 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
